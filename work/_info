@@ -1,0 +1,91 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Range/downloads/project
+vcontrol
+Z1 !s110 1701759992
+!i10b 1
+!s100 Q81J;W`]3[951];bVh2Aj3
+IcNh6k:4N>2Vz:NH?IJOnG2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1701759988
+Z4 8MovingTiles.v
+Z5 FMovingTiles.v
+L0 146
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1701759992.000000
+Z8 !s107 MovingTiles.v|
+Z9 !s90 -reportprogress|300|MovingTiles.v|
+!i113 1
+Z10 tCvgOpt 0
+vdatapath
+R1
+!i10b 1
+!s100 >oT1>>;38^28oTHA8L3iT0
+IK=kA_E4mAfQ_<EZ1BlLE;0
+R2
+R0
+R3
+R4
+R5
+L0 223
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vMovingTiles
+R1
+!i10b 1
+!s100 dGUO9HNj7oYZ^WN9b`9A43
+Ihj0MkVYd`Wl3nCJ]ORC[K2
+R2
+R0
+R3
+R4
+R5
+L0 25
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@moving@tiles
+vpart1
+R1
+!i10b 1
+!s100 @@cJUi:UaXCHFdCK69k5B3
+IH`F>6geD9zAi1hJl3o51M1
+R2
+R0
+R3
+R4
+R5
+L0 102
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10

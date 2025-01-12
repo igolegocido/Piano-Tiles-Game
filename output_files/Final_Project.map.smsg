@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at PS2_Demo.v(90): always construct contains both blocking and non-blocking assignments File: C:/Users/Range/Downloads/Project 2.0 - Copy - Copy/PS2_Demo.v Line: 90
+Warning (10268): Verilog HDL information at MovingTiles.v(312): always construct contains both blocking and non-blocking assignments File: C:/Users/Range/Downloads/Project 2.0 - Copy - Copy/MovingTiles.v Line: 312

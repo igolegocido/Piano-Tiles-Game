@@ -1,0 +1,90 @@
+vlib work
+
+vlog Moving tiles.v
+
+vsim part2
+
+log {/*}
+
+add wave {/*}
+
+force {iClock} 1 0ns , 0 {1ns} -r 2ns
+force {iResetn} 0
+force {iPlotBox} 0
+force {iBlack} 0 
+force {iLoadX}  0
+force {iColour} 0
+force {iXY_Coord}  0
+run 4ns
+
+force {iClock} 1 0ns , 0 {1ns} -r 2ns
+force {iResetn} 1
+force {iPlotBox} 0
+force {iBlack} 0 
+force {iLoadX}  0
+force {iColour} 0
+force {iXY_Coord}  0
+run 4ns
+
+force {iClock} 1 0ns , 0 {1ns} -r 2ns
+force {iResetn} 1
+force {iPlotBox} 0
+force {iBlack} 0 
+force {iLoadX}  0
+force {iColour} 0
+force {iXY_Coord}  3'd4
+run 4ns
+
+force {iClock} 1 0ns , 0 {1ns} -r 2ns
+force {iResetn} 1
+force {iPlotBox} 0
+force {iBlack} 0 
+force {iLoadX}  1
+force {iColour} 0
+force {iXY_Coord}  3'd4
+run 4ns	
+
+force {iClock} 1 0ns , 0 {1ns} -r 2ns
+force {iResetn} 1
+force {iPlotBox} 0
+force {iBlack} 0 
+force {iLoadX}  0
+force {iColour} 0
+force {iXY_Coord}  3'd4
+run 2ns	
+
+force {iClock} 1 0ns , 0 {1ns} -r 2ns
+force {iResetn} 1
+force {iPlotBox} 0
+force {iBlack} 0 
+force {iLoadX}  0
+force {iColour} 3'd4
+force {iXY_Coord}  1
+run 4ns	
+
+force {iClock} 1 0ns , 0 {1ns} -r 2ns
+force {iResetn} 1
+force {iPlotBox} 1
+force {iBlack} 0 
+force {iLoadX}  0
+force {iColour} 3'd4
+force {iXY_Coord}  1
+run 4ns	
+
+force {iClock} 1 0ns , 0 {1ns} -r 2ns
+force {iResetn} 1
+force {iPlotBox} 0
+force {iBlack} 0 
+force {iLoadX}  0
+force {iColour} 3'd4
+force {iXY_Coord}  1
+run 52ns	
+
+force {iClock} 1 0ns , 0 {1ns} -r 2ns
+force {iResetn} 1
+force {iPlotBox} 0
+force {iBlack} 0 
+force {iLoadX}  1
+force {iColour} 3'd4
+force {iXY_Coord}  1
+run 2ns
